@@ -1,0 +1,17 @@
+h1, h2 {
+    display: flex;
+    justify-content: center
+}
+
+.aboutMe {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center
+}
+
+.profile {
+    height: 30vh;
+    width: 30vw;
+    padding: 10px 10px
+}
